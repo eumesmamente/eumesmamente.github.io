@@ -1,3 +1,9 @@
+
+---
+layout: post
+title: Exemplos de Markdown
+---
+
 Quick Markdown Syntax Guide
 ===========================
 
