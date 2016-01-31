@@ -1,5 +1,5 @@
 .. header::
-   Informática 4º de E.S.O. - Edición avanzada de textos 
+   Edición avanzada de textos con ResT
 
 .. footer::
     ###Page###
