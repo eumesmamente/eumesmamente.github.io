@@ -282,7 +282,7 @@ Exemplos
         O corpo desta caixa é un parágrafo indentado.
 
 
-Bibliografía
+Eeferencias
 ============
  
  - *ReStructuredText* - http://docutils.sourceforge.net/rst.html
